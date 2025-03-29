@@ -6,4 +6,6 @@ public class Validation {
         this.input = input;
         this.randomWord = randomWord;
     }
+
+    // Add methods to validate the input against the random word
 }
