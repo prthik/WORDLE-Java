@@ -1,3 +1,7 @@
+package Wordle;
+
+import Wordle.Database;
+
 public class Validation {
     private String input;
     private Database randomWord;

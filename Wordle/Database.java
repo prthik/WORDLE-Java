@@ -1,3 +1,5 @@
+package Wordle;
+
 import java.util.Random;
 public class Database {
     Random generator = new Random();

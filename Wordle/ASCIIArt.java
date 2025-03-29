@@ -1,3 +1,5 @@
+package Wordle;
+
 public class ASCIIArt {
     public void getMedal() {
         System.out.println("_________________");

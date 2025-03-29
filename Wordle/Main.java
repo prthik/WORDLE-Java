@@ -1,3 +1,8 @@
+package Wordle;
+
+import Wordle.ASCIIArt;
+import Wordle.Database;
+
 import java.util.Scanner;
 public class Main {
    public static void main(String[] args) {
@@ -14,6 +19,6 @@ public class Main {
       // Figure out output code
 
       Validation validator = new Validation(input, randomWord);
-      // Might need to restructure Validation() call for looping
+      // Might need to restructure Wordle.Validation() call for looping
    }
 }
