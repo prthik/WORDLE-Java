@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Validation {
+public class Validation {
+    private String input;
+    private Database randomWord;
+
+    public Validation(String input, Database randomWord) {
+        this.input = input;
+        this.randomWord = randomWord;
+    }
 }
