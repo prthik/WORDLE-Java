@@ -1,4 +1,4 @@
-# Wordle
+# WORDLE
 
 > In Development
 
@@ -13,4 +13,4 @@ This project is a Wordle program. The program includes the following components:
 
 ---
 
-*This project was made for the 2025 AP Computer Science Examination Performance Task.*
+*This project was made for the 2025 AP Computer Science Principles Examination Performance Task.*
